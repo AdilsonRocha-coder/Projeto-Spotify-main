@@ -166,6 +166,11 @@ footer ul li{
     margin: 0 6px;
 }
 
+footer p{
+    color: #028d2c;
+    /*color: #9bf0e1;*/
+    text-align: center;
+}
 
 
 /* ============ tipografia ============ */
