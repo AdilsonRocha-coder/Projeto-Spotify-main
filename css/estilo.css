@@ -80,6 +80,10 @@ nav.navbar-transparente {
   color: #3c028d;
 }
 
+.carousel-control-next, .carousel-control-prev { /* aqui mudamos a largura do box das setas prev e next */
+  width: 5%;
+}
+
 /* ============ conteúdos ============ */
 .caixa {
   padding-top: 20px;
